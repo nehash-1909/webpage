@@ -1,0 +1,27 @@
+{
+  "name": "cse_wb",
+  "version": "1.0.0",
+  "description": "webpage for cse",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehash-1909/webpage.git"
+  },
+  "keywords": [
+    "cse"
+  ],
+  "author": "neha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nehash-1909/webpage/issues"
+  },
+  "homepage": "https://github.com/nehash-1909/webpage#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
